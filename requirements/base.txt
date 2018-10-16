@@ -10,3 +10,4 @@ whitenoise==3.2.1
 pagseguro==0.3.2
 django-paypal==0.3.3
 Pillow==4.0.0
+dj-static
